@@ -1,1 +1,1 @@
-somthing
+updated reamde from github 
